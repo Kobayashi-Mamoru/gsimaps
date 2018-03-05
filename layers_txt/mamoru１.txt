@@ -9,7 +9,7 @@
           "type": "Layer",
           "id": "sample1",
           "title": "サンプルgeojson",
-          "url": "./layers_txt/data/オリパラ施設_GIS学会スプリングスクール.geojson",
+          "url": "./data/オリパラ施設_GIS学会スプリングスクール.geojson",
           "cocotile": true,
           "minZoom": 2,
           "maxZoom": 18,
